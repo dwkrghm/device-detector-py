@@ -1,0 +1,7 @@
+""" """
+
+from device_detector_py.parser.client.abstract_client_parser import AbstractClientParser
+
+
+class FeedReader(AbstractClientParser):
+    """Client parser for feed reader detection"""

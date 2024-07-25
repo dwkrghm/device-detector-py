@@ -1,2 +1,3 @@
-def hello() -> str:
-    return "Hello from device-detector-py!"
+""" """
+
+from device_detector_py.main import DeviceDetector as DeviceDetector
